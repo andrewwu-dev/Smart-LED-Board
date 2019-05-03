@@ -1,0 +1,7 @@
+This is the raspberry pi version of the program. Uses pycamera and ws2812b leds (with neopixel library).
+
+Main.py is the script to run.
+
+You have to enter `sudo python3 Main.py`. Sudo because access leds require root permission.
+
+This script is suppose to run on raspberry pi startup.
