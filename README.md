@@ -1,5 +1,5 @@
 # **LED Board**
-LED pledge board that lights up based on where you look. The LED's and picamera are controlled by a raspberry pi.
+LED pledge board that lights up based on where you look. The LED's and camera are controlled by a raspberry pi on the backside of the board. There is a small camera hidden in the center of the board that captures video which will be used by a python script to determine the pitch, yaw, roll of the person's head.
 
 [![](http://img.youtube.com/vi/ELXCX4X0leI/0.jpg)](http://www.youtube.com/watch?v=ELXCX4X0leI "Demo 2")
 
