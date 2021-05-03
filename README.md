@@ -1,8 +1,6 @@
 # **LED Board**
 LED pledge board that lights up based on where you look. The LED's and picamera are controlled by a raspberry pi.
 
-[![](http://img.youtube.com/vi/4Uyygn34Lp8/0.jpg)](http://www.youtube.com/watch?v=4Uyygn34Lp8 "Demo 1")
-
 [![](http://img.youtube.com/vi/ELXCX4X0leI/0.jpg)](http://www.youtube.com/watch?v=ELXCX4X0leI "Demo 2")
 
 ## **Libraries Used**
